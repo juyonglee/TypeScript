@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/juyonglee/TypeScript/issues"
     },
-    "homepage": "https://github.com/juyonglee/TypeScript#readme"
+    "homepage": "https://github.com/juyonglee/TypeScript#readme",
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
 }
