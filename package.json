@@ -1,0 +1,20 @@
+{
+    "name": "typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/juyonglee/TypeScript.git"
+    },
+    "keywords": [],
+    "author": "juyonglee",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/juyonglee/TypeScript/issues"
+    },
+    "homepage": "https://github.com/juyonglee/TypeScript#readme"
+}
